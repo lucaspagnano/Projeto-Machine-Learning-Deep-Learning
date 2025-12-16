@@ -12,7 +12,7 @@ from setup_transfer import build_transfer_model
 # =============================================================================
 # 1. CONFIGURAÇÕES E MELHORES HIPERPARÂMETROS
 # =============================================================================
-TRAIN_DIR = "dataset/train"  # Caminho para as pastas de treino
+TRAIN_DIR = "dataset/train"
 IMG_SIZE = (224, 224)
 BATCH_SIZE = 32
 EPOCHS = 50 
@@ -137,4 +137,5 @@ df_res.to_excel("Resultados_Analise_Reducao.xlsx", index=False)
 
 print("\n--- PROCESSO CONCLUÍDO ---")
 print("Ficheiros gerados:")
+
 print(df_res[['Dataset_Size', 'Model_File', 'Best_Val_Accuracy']])
