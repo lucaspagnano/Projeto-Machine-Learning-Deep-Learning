@@ -55,7 +55,7 @@ val_gen = train_datagen.flow_from_directory(
 def build_transfer_model(learning_rate, dropout_rate, dense_neurons, num_classes):
     # 1. Carregar a "Base" (O cérebro pré-treinado)
     base_model = MobileNetV2(
-        weights='imagenet',  # Usar conhecimento prévio [cite: 1091]
+        weights='imagenet',  # Usar conhecimento prévio
         include_top=False,   # Não incluir a camada final de classificação (1000 classes)
         input_shape=(224, 224, 3)
     )
@@ -79,7 +79,7 @@ def build_transfer_model(learning_rate, dropout_rate, dense_neurons, num_classes
     
     return model
 
-# --- 4. Teste Rápido (Só para ver se funciona) ---
+# --- 4. Teste Rápido ---
 print("\n--- A testar a construção do modelo... ---")
 try:
     model = build_transfer_model()
@@ -89,4 +89,5 @@ try:
     model.fit(train_gen, epochs=1, validation_data=val_gen)
     print("Sucesso! O pipeline está pronto.")
 except Exception as e:
+
     print(f"Erro: {e}")
