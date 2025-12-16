@@ -20,7 +20,6 @@ train_datagen = ImageDataGenerator(
     validation_split=0.2, 
     rotation_range=20,
     horizontal_flip=True
-    # Adicione outros augmentations se necessário
 )
 
 train_generator = train_datagen.flow_from_directory(
@@ -68,7 +67,7 @@ def fitness_function(params):
     Retorna (1 - val_accuracy).
     """
     # 1. Descodificar Parâmetros
-    n_neurons = int(params[0])   # Cast para int
+    n_neurons = int(params[0])
     dropout_rate = params[1]
     learning_rate = params[2]
     
@@ -173,3 +172,4 @@ for i in range(total_evals):
         best_rs_params = params
 
 print(f"Melhor Random Search: {best_rs_params} | Fitness: {best_rs_fitness}")
+
