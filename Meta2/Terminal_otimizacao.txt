@@ -1,0 +1,497 @@
+--- A Testar: LR=0.000901 | Dropout=0.60 | Neurons=156 ---
+--- Resultado: Val_Acc: 0.6344 | Custo (Fitness): 0.3656 ---
+
+--- A Testar: LR=0.001094 | Dropout=0.28 | Neurons=91 ---
+--- Resultado: Val_Acc: 0.6300 | Custo (Fitness): 0.3700 ---
+
+--- A Testar: LR=0.000499 | Dropout=0.56 | Neurons=158 ---
+--- Resultado: Val_Acc: 0.6600 | Custo (Fitness): 0.3400 ---
+
+--- A Testar: LR=0.000850 | Dropout=0.51 | Neurons=148 ---
+--- Resultado: Val_Acc: 0.6178 | Custo (Fitness): 0.3822 ---
+
+--- A Testar: LR=0.000634 | Dropout=0.55 | Neurons=64 ---
+--- Resultado: Val_Acc: 0.5994 | Custo (Fitness): 0.4006 ---
+
+--- A Testar: LR=0.001530 | Dropout=0.48 | Neurons=153 ---
+--- Resultado: Val_Acc: 0.6278 | Custo (Fitness): 0.3722 ---
+
+--- A Testar: LR=0.001574 | Dropout=0.56 | Neurons=87 ---
+--- Resultado: Val_Acc: 0.5267 | Custo (Fitness): 0.4733 ---
+
+--- A Testar: LR=0.000100 | Dropout=0.60 | Neurons=236 ---
+--- Resultado: Val_Acc: 0.4906 | Custo (Fitness): 0.5094 ---
+
+--- A Testar: LR=0.001065 | Dropout=0.60 | Neurons=102 ---
+--- Resultado: Val_Acc: 0.5694 | Custo (Fitness): 0.4306 ---
+
+--- A Testar: LR=0.000835 | Dropout=0.60 | Neurons=192 ---
+--- Resultado: Val_Acc: 0.6350 | Custo (Fitness): 0.3650 ---
+
+--- A Testar: LR=0.000499 | Dropout=0.56 | Neurons=158 ---
+--- Resultado: Val_Acc: 0.6222 | Custo (Fitness): 0.3778 ---
+
+--- A Testar: LR=0.000901 | Dropout=0.60 | Neurons=156 ---
+--- Resultado: Val_Acc: 0.5928 | Custo (Fitness): 0.4072 ---
+
+--- A Testar: LR=0.000133 | Dropout=0.47 | Neurons=116 ---
+--- Resultado: Val_Acc: 0.5283 | Custo (Fitness): 0.4717 ---
+
+--- A Testar: LR=0.000505 | Dropout=0.35 | Neurons=155 ---
+--- Resultado: Val_Acc: 0.6561 | Custo (Fitness): 0.3439 ---
+
+--- A Testar: LR=0.000930 | Dropout=0.42 | Neurons=85 ---
+--- Resultado: Val_Acc: 0.6144 | Custo (Fitness): 0.3856 ---
+
+--- A Testar: LR=0.000253 | Dropout=0.60 | Neurons=64 ---
+--- Resultado: Val_Acc: 0.5378 | Custo (Fitness): 0.4622 ---
+
+--- A Testar: LR=0.000507 | Dropout=0.51 | Neurons=117 ---
+--- Resultado: Val_Acc: 0.6428 | Custo (Fitness): 0.3572 ---
+
+--- A Testar: LR=0.001044 | Dropout=0.39 | Neurons=135 ---
+--- Resultado: Val_Acc: 0.6450 | Custo (Fitness): 0.3550 ---
+
+--- A Testar: LR=0.001425 | Dropout=0.60 | Neurons=97 ---
+--- Resultado: Val_Acc: 0.5633 | Custo (Fitness): 0.4367 ---
+
+--- A Testar: LR=0.000942 | Dropout=0.50 | Neurons=144 ---
+--- Resultado: Val_Acc: 0.6689 | Custo (Fitness): 0.3311 ---
+
+--- A Testar: LR=0.000942 | Dropout=0.50 | Neurons=144 ---
+--- Resultado: Val_Acc: 0.6244 | Custo (Fitness): 0.3756 ---
+
+--- A Testar: LR=0.000499 | Dropout=0.56 | Neurons=158 ---
+--- Resultado: Val_Acc: 0.5978 | Custo (Fitness): 0.4022 ---
+
+--- A Testar: LR=0.000363 | Dropout=0.33 | Neurons=182 ---
+--- Resultado: Val_Acc: 0.6572 | Custo (Fitness): 0.3428 ---
+
+--- A Testar: LR=0.000719 | Dropout=0.32 | Neurons=123 ---
+--- Resultado: Val_Acc: 0.6583 | Custo (Fitness): 0.3417 ---
+
+--- A Testar: LR=0.000587 | Dropout=0.39 | Neurons=157 ---
+--- Resultado: Val_Acc: 0.6433 | Custo (Fitness): 0.3567 ---
+
+--- A Testar: LR=0.000894 | Dropout=0.50 | Neurons=109 ---
+--- Resultado: Val_Acc: 0.5806 | Custo (Fitness): 0.4194 ---
+
+--- A Testar: LR=0.000723 | Dropout=0.45 | Neurons=144 ---
+--- Resultado: Val_Acc: 0.6356 | Custo (Fitness): 0.3644 ---
+
+--- A Testar: LR=0.000565 | Dropout=0.41 | Neurons=130 ---
+--- Resultado: Val_Acc: 0.6522 | Custo (Fitness): 0.3478 ---
+
+--- A Testar: LR=0.001139 | Dropout=0.38 | Neurons=184 ---
+--- Resultado: Val_Acc: 0.6411 | Custo (Fitness): 0.3589 ---
+
+--- A Testar: LR=0.000375 | Dropout=0.40 | Neurons=175 ---
+--- Resultado: Val_Acc: 0.6517 | Custo (Fitness): 0.3483 ---
+
+--- A Testar: LR=0.000719 | Dropout=0.32 | Neurons=123 ---
+--- Resultado: Val_Acc: 0.6528 | Custo (Fitness): 0.3472 ---
+
+--- A Testar: LR=0.000942 | Dropout=0.50 | Neurons=144 ---
+--- Resultado: Val_Acc: 0.6333 | Custo (Fitness): 0.3667 ---
+
+--- A Testar: LR=0.000527 | Dropout=0.31 | Neurons=110 ---
+--- Resultado: Val_Acc: 0.6667 | Custo (Fitness): 0.3333 ---
+
+--- A Testar: LR=0.000597 | Dropout=0.25 | Neurons=164 ---
+--- Resultado: Val_Acc: 0.6267 | Custo (Fitness): 0.3733 ---
+
+--- A Testar: LR=0.000626 | Dropout=0.31 | Neurons=106 ---
+--- Resultado: Val_Acc: 0.6539 | Custo (Fitness): 0.3461 ---
+
+--- A Testar: LR=0.000717 | Dropout=0.35 | Neurons=138 ---
+--- Resultado: Val_Acc: 0.6478 | Custo (Fitness): 0.3522 ---
+
+--- A Testar: LR=0.000577 | Dropout=0.36 | Neurons=120 ---
+--- Resultado: Val_Acc: 0.6428 | Custo (Fitness): 0.3572 ---
+
+--- A Testar: LR=0.000476 | Dropout=0.35 | Neurons=156 ---
+--- Resultado: Val_Acc: 0.6139 | Custo (Fitness): 0.3861 ---
+
+--- A Testar: LR=0.000543 | Dropout=0.35 | Neurons=139 ---
+--- Resultado: Val_Acc: 0.6883 | Custo (Fitness): 0.3117 ---
+
+--- A Testar: LR=0.000634 | Dropout=0.34 | Neurons=154 ---
+--- Resultado: Val_Acc: 0.6889 | Custo (Fitness): 0.3111 ---
+
+--- A Testar: LR=0.000634 | Dropout=0.34 | Neurons=154 ---
+--- Resultado: Val_Acc: 0.6717 | Custo (Fitness): 0.3283 ---
+
+--- A Testar: LR=0.000719 | Dropout=0.32 | Neurons=123 ---
+--- Resultado: Val_Acc: 0.6772 | Custo (Fitness): 0.3228 ---
+
+--- A Testar: LR=0.000388 | Dropout=0.30 | Neurons=121 ---
+--- Resultado: Val_Acc: 0.6333 | Custo (Fitness): 0.3667 ---
+
+--- A Testar: LR=0.000595 | Dropout=0.40 | Neurons=121 ---
+--- Resultado: Val_Acc: 0.6261 | Custo (Fitness): 0.3739 ---
+
+--- A Testar: LR=0.000465 | Dropout=0.33 | Neurons=137 ---
+--- Resultado: Val_Acc: 0.6178 | Custo (Fitness): 0.3822 ---
+
+--- A Testar: LR=0.000566 | Dropout=0.38 | Neurons=119 ---
+--- Resultado: Val_Acc: 0.6339 | Custo (Fitness): 0.3661 ---
+
+--- A Testar: LR=0.000464 | Dropout=0.30 | Neurons=121 ---
+--- Resultado: Val_Acc: 0.6289 | Custo (Fitness): 0.3711 ---
+
+--- A Testar: LR=0.000627 | Dropout=0.30 | Neurons=134 ---
+--- Resultado: Val_Acc: 0.6339 | Custo (Fitness): 0.3661 ---
+
+--- A Testar: LR=0.000547 | Dropout=0.38 | Neurons=143 ---
+--- Resultado: Val_Acc: 0.6833 | Custo (Fitness): 0.3167 ---
+
+--- A Testar: LR=0.000619 | Dropout=0.36 | Neurons=136 ---
+--- Resultado: Val_Acc: 0.6417 | Custo (Fitness): 0.3583 ---
+
+--- A Testar: LR=0.000547 | Dropout=0.38 | Neurons=143 ---
+--- Resultado: Val_Acc: 0.6439 | Custo (Fitness): 0.3561 ---
+
+--- A Testar: LR=0.000719 | Dropout=0.32 | Neurons=123 ---
+--- Resultado: Val_Acc: 0.6628 | Custo (Fitness): 0.3372 ---
+
+--- A Testar: LR=0.000559 | Dropout=0.37 | Neurons=136 ---
+--- Resultado: Val_Acc: 0.6483 | Custo (Fitness): 0.3517 ---
+
+--- A Testar: LR=0.000597 | Dropout=0.38 | Neurons=136 ---
+--- Resultado: Val_Acc: 0.6178 | Custo (Fitness): 0.3822 ---
+
+--- A Testar: LR=0.000625 | Dropout=0.37 | Neurons=140 ---
+--- Resultado: Val_Acc: 0.6656 | Custo (Fitness): 0.3344 ---
+
+--- A Testar: LR=0.000580 | Dropout=0.33 | Neurons=141 ---
+--- Resultado: Val_Acc: 0.6444 | Custo (Fitness): 0.3556 ---
+
+--- A Testar: LR=0.000597 | Dropout=0.35 | Neurons=134 ---
+--- Resultado: Val_Acc: 0.6606 | Custo (Fitness): 0.3394 ---
+
+--- A Testar: LR=0.000536 | Dropout=0.39 | Neurons=132 ---
+--- Resultado: Val_Acc: 0.6361 | Custo (Fitness): 0.3639 ---
+
+--- A Testar: LR=0.000568 | Dropout=0.37 | Neurons=138 ---
+--- Resultado: Val_Acc: 0.6417 | Custo (Fitness): 0.3583 ---
+
+--- A Testar: LR=0.000582 | Dropout=0.38 | Neurons=134 ---
+--- Resultado: Val_Acc: 0.6511 | Custo (Fitness): 0.3489 ---
+
+--- A Testar: LR=0.000625 | Dropout=0.37 | Neurons=140 ---
+--- Resultado: Val_Acc: 0.6306 | Custo (Fitness): 0.3694 ---
+
+--- A Testar: LR=0.000719 | Dropout=0.32 | Neurons=123 ---
+--- Resultado: Val_Acc: 0.6111 | Custo (Fitness): 0.3889 ---
+
+--- A Testar: LR=0.000559 | Dropout=0.37 | Neurons=136 ---
+--- Resultado: Val_Acc: 0.6667 | Custo (Fitness): 0.3333 ---
+
+--- A Testar: LR=0.000597 | Dropout=0.38 | Neurons=136 ---
+--- Resultado: Val_Acc: 0.6589 | Custo (Fitness): 0.3411 ---
+
+--- A Testar: LR=0.000625 | Dropout=0.37 | Neurons=140 ---
+--- Resultado: Val_Acc: 0.6278 | Custo (Fitness): 0.3722 ---
+
+--- A Testar: LR=0.000580 | Dropout=0.33 | Neurons=141 ---
+--- Resultado: Val_Acc: 0.6378 | Custo (Fitness): 0.3622 ---
+
+--- A Testar: LR=0.000597 | Dropout=0.35 | Neurons=134 ---
+--- Resultado: Val_Acc: 0.6444 | Custo (Fitness): 0.3556 ---
+
+--- A Testar: LR=0.000536 | Dropout=0.39 | Neurons=132 ---
+--- Resultado: Val_Acc: 0.6406 | Custo (Fitness): 0.3594 ---
+
+--- A Testar: LR=0.000568 | Dropout=0.37 | Neurons=138 ---
+--- Resultado: Val_Acc: 0.6561 | Custo (Fitness): 0.3439 ---
+
+--- A Testar: LR=0.000582 | Dropout=0.38 | Neurons=134 ---
+--- Resultado: Val_Acc: 0.6439 | Custo (Fitness): 0.3561 ---
+
+--- A Testar: LR=0.000625 | Dropout=0.37 | Neurons=140 ---
+--- Resultado: Val_Acc: 0.6578 | Custo (Fitness): 0.3422 ---
+
+--- OTIMIZAÇÃO GWO CONCLUÍDA (Tempo: 308.80 minutos) ---
+Melhor Custo (1 - Val_Acc): 0.3422
+Melhores Hiperparâmetros (GWO):
+  Learning Rate: 0.000625
+  Dropout Rate:  0.37
+  Dense Neurons: 140
+--------------------------------------------------
+
+A executar Otimização com PSO...
+
+--- A Testar: LR=0.002211 | Dropout=0.57 | Neurons=217 ---
+--- Resultado: Val_Acc: 0.6000 | Custo (Fitness): 0.4000 ---
+
+--- A Testar: LR=0.002951 | Dropout=0.51 | Neurons=174 ---
+--- Resultado: Val_Acc: 0.5594 | Custo (Fitness): 0.4406 ---
+
+--- A Testar: LR=0.001843 | Dropout=0.46 | Neurons=143 ---
+--- Resultado: Val_Acc: 0.6061 | Custo (Fitness): 0.3939 ---
+
+--- A Testar: LR=0.006992 | Dropout=0.37 | Neurons=209 ---
+--- Resultado: Val_Acc: 0.2000 | Custo (Fitness): 0.8000 ---
+
+--- A Testar: LR=0.001979 | Dropout=0.36 | Neurons=151 ---
+--- Resultado: Val_Acc: 0.5894 | Custo (Fitness): 0.4106 ---
+
+--- A Testar: LR=0.006540 | Dropout=0.41 | Neurons=151 ---
+--- Resultado: Val_Acc: 0.3733 | Custo (Fitness): 0.6267 ---
+
+--- A Testar: LR=0.004447 | Dropout=0.21 | Neurons=240 ---
+--- Resultado: Val_Acc: 0.5489 | Custo (Fitness): 0.4511 ---
+
+--- A Testar: LR=0.005793 | Dropout=0.32 | Neurons=177 ---
+--- Resultado: Val_Acc: 0.2000 | Custo (Fitness): 0.8000 ---
+
+--- A Testar: LR=0.001973 | Dropout=0.45 | Neurons=136 ---
+--- Resultado: Val_Acc: 0.5850 | Custo (Fitness): 0.4150 ---
+
+--- A Testar: LR=0.001353 | Dropout=0.47 | Neurons=143 ---
+--- Resultado: Val_Acc: 0.6183 | Custo (Fitness): 0.3817 ---
+
+--- A Testar: LR=0.001843 | Dropout=0.46 | Neurons=143 ---
+--- Resultado: Val_Acc: 0.6283 | Custo (Fitness): 0.3717 ---
+
+--- A Testar: LR=0.001738 | Dropout=0.47 | Neurons=166 ---
+--- Resultado: Val_Acc: 0.6017 | Custo (Fitness): 0.3983 ---
+
+--- A Testar: LR=0.001857 | Dropout=0.43 | Neurons=148 ---
+--- Resultado: Val_Acc: 0.6194 | Custo (Fitness): 0.3806 ---
+
+--- A Testar: LR=0.003030 | Dropout=0.46 | Neurons=141 ---
+--- Resultado: Val_Acc: 0.2000 | Custo (Fitness): 0.8000 ---
+
+--- A Testar: LR=0.001035 | Dropout=0.59 | Neurons=175 ---
+--- Resultado: Val_Acc: 0.6239 | Custo (Fitness): 0.3761 ---
+
+--- A Testar: LR=0.003533 | Dropout=0.49 | Neurons=147 ---
+--- Resultado: Val_Acc: 0.4894 | Custo (Fitness): 0.5106 ---
+
+--- A Testar: LR=0.001843 | Dropout=0.46 | Neurons=143 ---
+--- Resultado: Val_Acc: 0.5878 | Custo (Fitness): 0.4122 ---
+
+--- A Testar: LR=0.001843 | Dropout=0.46 | Neurons=143 ---
+--- Resultado: Val_Acc: 0.5411 | Custo (Fitness): 0.4589 ---
+
+--- A Testar: LR=0.001619 | Dropout=0.40 | Neurons=97 ---
+--- Resultado: Val_Acc: 0.5961 | Custo (Fitness): 0.4039 ---
+
+--- A Testar: LR=0.001318 | Dropout=0.45 | Neurons=128 ---
+--- Resultado: Val_Acc: 0.6367 | Custo (Fitness): 0.3633 ---
+
+--- A Testar: LR=0.001843 | Dropout=0.46 | Neurons=143 ---
+--- Resultado: Val_Acc: 0.6239 | Custo (Fitness): 0.3761 ---
+
+--- A Testar: LR=0.000100 | Dropout=0.52 | Neurons=116 ---
+--- Resultado: Val_Acc: 0.5044 | Custo (Fitness): 0.4956 ---
+
+--- A Testar: LR=0.001790 | Dropout=0.51 | Neurons=144 ---
+--- Resultado: Val_Acc: 0.5939 | Custo (Fitness): 0.4061 ---
+
+--- A Testar: LR=0.000500 | Dropout=0.49 | Neurons=137 ---
+--- Resultado: Val_Acc: 0.5906 | Custo (Fitness): 0.4094 ---
+
+--- A Testar: LR=0.000100 | Dropout=0.60 | Neurons=128 ---
+--- Resultado: Val_Acc: 0.5267 | Custo (Fitness): 0.4733 ---
+
+--- A Testar: LR=0.001473 | Dropout=0.56 | Neurons=127 ---
+--- Resultado: Val_Acc: 0.6050 | Custo (Fitness): 0.3950 ---
+
+--- A Testar: LR=0.001318 | Dropout=0.45 | Neurons=128 ---
+--- Resultado: Val_Acc: 0.6344 | Custo (Fitness): 0.3656 ---
+
+--- A Testar: LR=0.001843 | Dropout=0.46 | Neurons=143 ---
+--- Resultado: Val_Acc: 0.5978 | Custo (Fitness): 0.4022 ---
+
+--- A Testar: LR=0.000942 | Dropout=0.45 | Neurons=116 ---
+--- Resultado: Val_Acc: 0.5900 | Custo (Fitness): 0.4100 ---
+
+--- A Testar: LR=0.001301 | Dropout=0.44 | Neurons=120 ---
+--- Resultado: Val_Acc: 0.6733 | Custo (Fitness): 0.3267 ---
+
+--- A Testar: LR=0.001394 | Dropout=0.44 | Neurons=135 ---
+--- Resultado: Val_Acc: 0.6244 | Custo (Fitness): 0.3756 ---
+
+--- A Testar: LR=0.000100 | Dropout=0.46 | Neurons=100 ---
+--- Resultado: Val_Acc: 0.5411 | Custo (Fitness): 0.4589 ---
+
+--- A Testar: LR=0.001277 | Dropout=0.46 | Neurons=127 ---
+--- Resultado: Val_Acc: 0.6583 | Custo (Fitness): 0.3417 ---
+
+--- A Testar: LR=0.000100 | Dropout=0.47 | Neurons=132 ---
+--- Resultado: Val_Acc: 0.5250 | Custo (Fitness): 0.4750 ---
+
+--- A Testar: LR=0.000100 | Dropout=0.55 | Neurons=105 ---
+--- Resultado: Val_Acc: 0.4939 | Custo (Fitness): 0.5061 ---
+
+--- A Testar: LR=0.000256 | Dropout=0.42 | Neurons=118 ---
+--- Resultado: Val_Acc: 0.5939 | Custo (Fitness): 0.4061 ---
+
+--- A Testar: LR=0.001301 | Dropout=0.44 | Neurons=120 ---
+--- Resultado: Val_Acc: 0.6261 | Custo (Fitness): 0.3739 ---
+
+--- A Testar: LR=0.001301 | Dropout=0.44 | Neurons=120 ---
+--- Resultado: Val_Acc: 0.5933 | Custo (Fitness): 0.4067 ---
+
+--- A Testar: LR=0.000843 | Dropout=0.47 | Neurons=131 ---
+--- Resultado: Val_Acc: 0.6417 | Custo (Fitness): 0.3583 ---
+
+--- A Testar: LR=0.001292 | Dropout=0.43 | Neurons=116 ---
+--- Resultado: Val_Acc: 0.6178 | Custo (Fitness): 0.3822 ---
+
+--- A Testar: LR=0.001151 | Dropout=0.42 | Neurons=123 ---
+--- Resultado: Val_Acc: 0.5711 | Custo (Fitness): 0.4289 ---
+
+--- A Testar: LR=0.000393 | Dropout=0.40 | Neurons=103 ---
+--- Resultado: Val_Acc: 0.6339 | Custo (Fitness): 0.3661 ---
+
+--- A Testar: LR=0.001043 | Dropout=0.42 | Neurons=115 ---
+--- Resultado: Val_Acc: 0.6078 | Custo (Fitness): 0.3922 ---
+
+--- A Testar: LR=0.001175 | Dropout=0.41 | Neurons=122 ---
+--- Resultado: Val_Acc: 0.6344 | Custo (Fitness): 0.3656 ---
+
+--- A Testar: LR=0.002022 | Dropout=0.43 | Neurons=113 ---
+--- Resultado: Val_Acc: 0.5578 | Custo (Fitness): 0.4422 ---
+
+--- A Testar: LR=0.001569 | Dropout=0.37 | Neurons=114 ---
+--- Resultado: Val_Acc: 0.5628 | Custo (Fitness): 0.4372 ---
+
+--- A Testar: LR=0.000843 | Dropout=0.47 | Neurons=131 ---
+--- Resultado: Val_Acc: 0.6600 | Custo (Fitness): 0.3400 ---
+
+--- A Testar: LR=0.001292 | Dropout=0.43 | Neurons=116 ---
+--- Resultado: Val_Acc: 0.6089 | Custo (Fitness): 0.3911 ---
+
+--- A Testar: LR=0.000794 | Dropout=0.48 | Neurons=139 ---
+--- Resultado: Val_Acc: 0.6906 | Custo (Fitness): 0.3094 ---
+
+--- A Testar: LR=0.000582 | Dropout=0.46 | Neurons=116 ---
+--- Resultado: Val_Acc: 0.6506 | Custo (Fitness): 0.3494 ---
+
+--- A Testar: LR=0.000709 | Dropout=0.48 | Neurons=128 ---
+--- Resultado: Val_Acc: 0.6528 | Custo (Fitness): 0.3472 ---
+
+--- A Testar: LR=0.001051 | Dropout=0.44 | Neurons=134 ---
+--- Resultado: Val_Acc: 0.6361 | Custo (Fitness): 0.3639 ---
+
+--- A Testar: LR=0.000664 | Dropout=0.44 | Neurons=136 ---
+--- Resultado: Val_Acc: 0.6500 | Custo (Fitness): 0.3500 ---
+
+--- A Testar: LR=0.001644 | Dropout=0.45 | Neurons=130 ---
+--- Resultado: Val_Acc: 0.6356 | Custo (Fitness): 0.3644 ---
+
+--- A Testar: LR=0.001658 | Dropout=0.39 | Neurons=118 ---
+--- Resultado: Val_Acc: 0.6094 | Custo (Fitness): 0.3906 ---
+
+--- A Testar: LR=0.000912 | Dropout=0.36 | Neurons=128 ---
+--- Resultado: Val_Acc: 0.6567 | Custo (Fitness): 0.3433 ---
+
+--- A Testar: LR=0.000794 | Dropout=0.48 | Neurons=139 ---
+--- Resultado: Val_Acc: 0.5889 | Custo (Fitness): 0.4111 ---
+
+--- A Testar: LR=0.000794 | Dropout=0.48 | Neurons=139 ---
+--- Resultado: Val_Acc: 0.6417 | Custo (Fitness): 0.3583 ---
+
+--- A Testar: LR=0.000770 | Dropout=0.48 | Neurons=142 ---
+--- Resultado: Val_Acc: 0.6322 | Custo (Fitness): 0.3678 ---
+
+--- A Testar: LR=0.000387 | Dropout=0.49 | Neurons=124 ---
+--- Resultado: Val_Acc: 0.6328 | Custo (Fitness): 0.3672 ---
+
+--- A Testar: LR=0.000585 | Dropout=0.50 | Neurons=143 ---
+--- Resultado: Val_Acc: 0.6450 | Custo (Fitness): 0.3550 ---
+
+--- A Testar: LR=0.001166 | Dropout=0.49 | Neurons=155 ---
+--- Resultado: Val_Acc: 0.6044 | Custo (Fitness): 0.3956 ---
+
+--- A Testar: LR=0.000550 | Dropout=0.50 | Neurons=150 ---
+--- Resultado: Val_Acc: 0.6456 | Custo (Fitness): 0.3544 ---
+
+--- A Testar: LR=0.001316 | Dropout=0.49 | Neurons=138 ---
+--- Resultado: Val_Acc: 0.6206 | Custo (Fitness): 0.3794 ---
+
+--- A Testar: LR=0.000529 | Dropout=0.52 | Neurons=147 ---
+--- Resultado: Val_Acc: 0.6300 | Custo (Fitness): 0.3700 ---
+
+--- A Testar: LR=0.000524 | Dropout=0.52 | Neurons=141 ---
+--- Resultado: Val_Acc: 0.6439 | Custo (Fitness): 0.3561 ---
+
+--- A Testar: LR=0.000550 | Dropout=0.50 | Neurons=150 ---
+--- Resultado: Val_Acc: 0.5989 | Custo (Fitness): 0.4011 ---
+
+--- A Testar: LR=0.000794 | Dropout=0.48 | Neurons=139 ---
+--- Resultado: Val_Acc: 0.6517 | Custo (Fitness): 0.3483 ---
+
+--- A Testar: LR=0.000760 | Dropout=0.49 | Neurons=143 ---
+--- Resultado: Val_Acc: 0.6122 | Custo (Fitness): 0.3878 ---
+
+--- A Testar: LR=0.000676 | Dropout=0.50 | Neurons=147 ---
+--- Resultado: Val_Acc: 0.6322 | Custo (Fitness): 0.3678 ---
+
+--- A Testar: LR=0.000550 | Dropout=0.51 | Neurons=149 ---
+--- Resultado: Val_Acc: 0.5944 | Custo (Fitness): 0.4056 ---
+
+--- A Testar: LR=0.000773 | Dropout=0.51 | Neurons=156 ---
+--- Resultado: Val_Acc: 0.6678 | Custo (Fitness): 0.3322 ---
+
+--- A Testar: LR=0.000652 | Dropout=0.51 | Neurons=151 ---
+--- Resultado: Val_Acc: 0.6444 | Custo (Fitness): 0.3556 ---
+
+--- A Testar: LR=0.000581 | Dropout=0.50 | Neurons=153 ---
+--- Resultado: Val_Acc: 0.6272 | Custo (Fitness): 0.3728 ---
+
+--- A Testar: LR=0.000100 | Dropout=0.56 | Neurons=164 ---
+--- Resultado: Val_Acc: 0.5133 | Custo (Fitness): 0.4867 ---
+
+--- A Testar: LR=0.000542 | Dropout=0.57 | Neurons=150 ---
+--- Resultado: Val_Acc: 0.6267 | Custo (Fitness): 0.3733 ---
+
+--- A Testar: LR=0.000773 | Dropout=0.51 | Neurons=156 ---
+--- Resultado: Val_Acc: 0.6517 | Custo (Fitness): 0.3483 ---
+
+--- A Testar: LR=0.000794 | Dropout=0.48 | Neurons=139 ---
+--- Resultado: Val_Acc: 0.6178 | Custo (Fitness): 0.3822 ---
+
+--- A Testar: LR=0.000774 | Dropout=0.52 | Neurons=151 ---
+--- Resultado: Val_Acc: 0.6472 | Custo (Fitness): 0.3528 ---
+
+--- A Testar: LR=0.000825 | Dropout=0.52 | Neurons=162 ---
+--- Resultado: Val_Acc: 0.6244 | Custo (Fitness): 0.3756 ---
+
+--- A Testar: LR=0.000954 | Dropout=0.52 | Neurons=162 ---
+--- Resultado: Val_Acc: 0.6522 | Custo (Fitness): 0.3478 ---
+
+--- A Testar: LR=0.000576 | Dropout=0.52 | Neurons=156 ---
+--- Resultado: Val_Acc: 0.6428 | Custo (Fitness): 0.3572 ---
+
+--- A Testar: LR=0.000861 | Dropout=0.51 | Neurons=155 ---
+--- Resultado: Val_Acc: 0.6494 | Custo (Fitness): 0.3506 ---
+
+--- A Testar: LR=0.000372 | Dropout=0.52 | Neurons=162 ---
+--- Resultado: Val_Acc: 0.6383 | Custo (Fitness): 0.3617 ---
+
+--- A Testar: LR=0.001067 | Dropout=0.58 | Neurons=165 ---
+--- Resultado: Val_Acc: 0.6333 | Custo (Fitness): 0.3667 ---
+
+--- A Testar: LR=0.000846 | Dropout=0.52 | Neurons=159 ---
+--- Resultado: Val_Acc: 0.6472 | Custo (Fitness): 0.3528 ---
+
+--- A Testar: LR=0.000954 | Dropout=0.52 | Neurons=162 ---
+--- Resultado: Val_Acc: 0.6428 | Custo (Fitness): 0.3572 ---
+
+--- A Testar: LR=0.000576 | Dropout=0.52 | Neurons=156 ---
+--- Resultado: Val_Acc: 0.6372 | Custo (Fitness): 0.3628 ---
+
+--- A Testar: LR=0.000954 | Dropout=0.52 | Neurons=162 ---
+--- Resultado: Val_Acc: 0.6328 | Custo (Fitness): 0.3672 ---
+
+--- OTIMIZAÇÃO PSO CONCLUÍDA (Tempo: 287.81 minutos) ---
+Melhor Custo (1 - Val_Acc): 0.3672
+Melhores Hiperparâmetros (PSO):
+  Learning Rate: 0.000954
+  Dropout Rate:  0.52
+  Dense Neurons: 162
+--------------------------------------------------
