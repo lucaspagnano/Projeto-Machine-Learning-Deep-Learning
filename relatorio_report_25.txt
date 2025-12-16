@@ -1,0 +1,11 @@
+              precision    recall  f1-score   support
+
+       Metal       0.86      0.92      0.89       200
+    Organico       0.97      0.94      0.96       200
+       Papel       0.92      0.91      0.92       200
+    Plastico       0.88      0.88      0.88       200
+       Vidro       0.88      0.86      0.87       200
+
+    accuracy                           0.90      1000
+   macro avg       0.90      0.90      0.90      1000
+weighted avg       0.90      0.90      0.90      1000
