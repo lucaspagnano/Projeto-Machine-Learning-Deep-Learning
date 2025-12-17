@@ -56,7 +56,7 @@ O modelo foi treinado para distinguir **5 classes** de resíduos:
 1.  **Clonar o repositório:**
     ```bash
     git clone [https://github.com/lucaspagnano/Projeto-Machine-Learning-Deep-Learning.git](https://github.com/lucaspagnano/Projeto-Machine-Learning-Deep-Learning.git)
-    cd Projeto-Machine-Learning-Deep-Learning
+    cd Projeto-Machine-Learning-Deep-Learning/Meta3
     ```
 
 2.  **Instalar dependências:**
