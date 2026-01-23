@@ -1,13 +1,11 @@
 # ♻️ Classificador Inteligente de Resíduos (Recycling AI)
 
-> **Projeto de Inteligência Computacional - Licenciatura em Engenharia Informática**
-> **Politécnico de Coimbra (2025/2026)**
-
-Este projeto consiste no desenvolvimento de um sistema de Visão Computacional baseado em **Deep Learning** para a classificação automática de resíduos recicláveis. O sistema final utiliza **Transfer Learning** (MobileNetV2), otimização de hiperparâmetros via **Swarm Intelligence** (GWO) e uma interface Web para utilização em tempo real.
-
----
+> **Unidade Curricular:** Inteligência Computacional
+> **Instituição:** ISEC - Instituto Superior de Engenharia de Coimbra  
+> **Ano Letivo:** 2025/2026
 
 ## 📌 Visão Geral do Projeto
+Este projeto consiste no desenvolvimento de um sistema de Visão Computacional baseado em **Deep Learning** para a classificação automática de resíduos recicláveis. O sistema final utiliza **Transfer Learning** (MobileNetV2), otimização de hiperparâmetros via **Swarm Intelligence** (GWO) e uma interface Web para utilização em tempo real.<br>
 
 O projeto foi desenvolvido em três fases distintas, evoluindo de uma abordagem básica para uma solução robusta e otimizada:
 
