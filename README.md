@@ -1,7 +1,7 @@
 # ♻️ Classificador Inteligente de Resíduos (Recycling AI)
 
-> **Unidade Curricular:** Inteligência Computacional
-> **Instituição:** ISEC - Instituto Superior de Engenharia de Coimbra  
+> **Unidade Curricular:** Inteligência Computacional<br>
+> **Instituição:** ISEC - Instituto Superior de Engenharia de Coimbra  <br>
 > **Ano Letivo:** 2025/2026
 
 ## 📌 Visão Geral do Projeto
