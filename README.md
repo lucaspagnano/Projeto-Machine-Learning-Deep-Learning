@@ -13,16 +13,12 @@ O projeto foi desenvolvido em três fases distintas, evoluindo de uma abordagem 
 **Fase II (Meta II):** Investigação e implementação de algoritmos de inteligência de enxame (**Swarm Intelligence**) para a otimização automática de hiperparâmetros da rede.<br>
 **Fase III (Meta III):** Implementação final utilizando **Transfer Learning** (MobileNetV2), análise de robustez com redução de dados e *deployment* numa aplicação Web.<br>
 
----
-
 ## 🚀 Funcionalidades Principais
 
 **Arquitetura MobileNetV2:** Utilização de uma rede pré-treinada na ImageNet para extração de características (Feature Extraction), garantindo leveza e eficiência.<br>
 **Otimização com GWO (Grey Wolf Optimizer):** Ajuste automático de neurónios, *dropout* e *learning rate* utilizando inteligência coletiva, superando a pesquisa aleatória (Random Search).<br>
 **Robustez a Dados Reduzidos:** Validação da eficácia do modelo mesmo com apenas **25%** do dataset original, demonstrando o poder do Transfer Learning.<br>
 **Aplicação Web (Streamlit):** Interface gráfica para classificação em tempo real via **Upload de Imagem** ou **Câmara**.<br>
-
----
 
 ## 📊 Dataset e Classes
 
@@ -37,8 +33,6 @@ O modelo foi treinado para distinguir **5 classes** de resíduos:
 * **Accuracy Global:** ~95%
 * **F1-Score:** Consistente acima de 0.94 para todas as classes.
 
----
-
 ## 🛠️ Tecnologias Utilizadas
 
 * **Linguagem:** Python
@@ -46,8 +40,6 @@ O modelo foi treinado para distinguir **5 classes** de resíduos:
 * **Otimização:** SwarmPackagePy (GWO)
 * **Interface:** Streamlit
 * **Processamento de Dados:** Pandas, NumPy, Scikit-learn
-
----
 
 ## ⚙️ Instalação e Execução (Meta3)
 
@@ -71,8 +63,6 @@ O modelo foi treinado para distinguir **5 classes** de resíduos:
     * Para correr a otimização GWO: `python otimizar_transfer.py`
     * Para gerar os modelos finais: `python treino.py`
 
----
-
 ## 📂 Estrutura do Projeto
 
 * `app.py`: Aplicação Web (Streamlit) para demonstração.
@@ -81,5 +71,3 @@ O modelo foi treinado para distinguir **5 classes** de resíduos:
 * `treino.py`: Script de treino final e validação de redução de dados (100%, 50%, 25%).
 * `teste.py`: Script para geração da Matriz de Confusão e Relatório de Classificação.
 
----
-*Projeto realizado no âmbito da Unidade Curricular de Inteligência Computacional - Politécnico de Coimbra.*
