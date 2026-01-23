@@ -19,10 +19,10 @@ O projeto foi desenvolvido em três fases distintas, evoluindo de uma abordagem 
 
 ## 🚀 Funcionalidades Principais
 
-**Arquitetura MobileNetV2:** Utilização de uma rede pré-treinada na ImageNet para extração de características (Feature Extraction), garantindo leveza e eficiência.
-**Otimização com GWO (Grey Wolf Optimizer):** Ajuste automático de neurónios, *dropout* e *learning rate* utilizando inteligência coletiva, superando a pesquisa aleatória (Random Search).
-**Robustez a Dados Reduzidos:** Validação da eficácia do modelo mesmo com apenas **25%** do dataset original, demonstrando o poder do Transfer Learning.
-**Aplicação Web (Streamlit):** Interface gráfica para classificação em tempo real via **Upload de Imagem** ou **Câmara**.
+**Arquitetura MobileNetV2:** Utilização de uma rede pré-treinada na ImageNet para extração de características (Feature Extraction), garantindo leveza e eficiência.<br>
+**Otimização com GWO (Grey Wolf Optimizer):** Ajuste automático de neurónios, *dropout* e *learning rate* utilizando inteligência coletiva, superando a pesquisa aleatória (Random Search).<br>
+**Robustez a Dados Reduzidos:** Validação da eficácia do modelo mesmo com apenas **25%** do dataset original, demonstrando o poder do Transfer Learning.<br>
+**Aplicação Web (Streamlit):** Interface gráfica para classificação em tempo real via **Upload de Imagem** ou **Câmara**.<br>
 
 ---
 
