@@ -11,9 +11,9 @@ Este projeto consiste no desenvolvimento de um sistema de Visão Computacional b
 
 O projeto foi desenvolvido em três fases distintas, evoluindo de uma abordagem básica para uma solução robusta e otimizada:
 
-**Fase I (Meta I):** Análise do problema, recolha de dataset e desenvolvimento de modelos iniciais (CNN/MLP) "treinados do zero".
-**Fase II (Meta II):** Investigação e implementação de algoritmos de inteligência de enxame (**Swarm Intelligence**) para a otimização automática de hiperparâmetros da rede.
-**Fase III (Meta III):** Implementação final utilizando **Transfer Learning** (MobileNetV2), análise de robustez com redução de dados e *deployment* numa aplicação Web.
+**Fase I (Meta I):** Análise do problema, recolha de dataset e desenvolvimento de modelos iniciais (CNN/MLP) "treinados do zero". <br>
+**Fase II (Meta II):** Investigação e implementação de algoritmos de inteligência de enxame (**Swarm Intelligence**) para a otimização automática de hiperparâmetros da rede.<br>
+**Fase III (Meta III):** Implementação final utilizando **Transfer Learning** (MobileNetV2), análise de robustez com redução de dados e *deployment* numa aplicação Web.<br>
 
 ---
 
